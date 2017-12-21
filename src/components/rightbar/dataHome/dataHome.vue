@@ -19,7 +19,7 @@
 		data (){
 			return{
 				navChildRouter:['/dataHome/dtHomefirstChild','/dataHome/dtHomesecChild','#','#','#','#'],
-				navChildText:['生产信息系统','数据服务对象','数据总量','实时数据源','数据交换频次','数据吞吐量'],
+				navChildText:['xx数据1','xx数据2','xx数据3','xx数据4','xx数据5','xx数据6'],
 				navChildImg:['static/images/icon_email.png','static/images/icon_earth.png','static/images/icon_chart.png','static/images/icon_pie.png','static/images/icon_line_chart.png','static/images/icon_dial.png'],
 				navChildNum:['34,652','23,234','68,543','34,121','78,234','56,334'],
 				activeColor:["#51a7fe","#54fef3","#a25eff",'#ff984c','#83ff53','#ff703b']

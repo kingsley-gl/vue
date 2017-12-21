@@ -19,7 +19,7 @@
 	export default{
 		data (){
 			return{
-				sidebarText:['数据服务门户','服务器目录系统','数据交换管理系统','数据资源管理系统','数据文件管理系统','数据服务支持系统',"数据安全支撑系统"],
+				sidebarText:['服务门户','服务器目录系统','管理系统','资源系统','文件管理系统','服务支持系统',"安全支撑系统"],
 				sidebarRouter:['/dataHome/dtHomefirstChild','/dataCatalog/dtCatalogfirstChild','/dataInteraction/dtInteractionfirstChild','/dataResour/dtResourfirstChild','/dataFile','/dataDepend/dtDependfirstChild','/dataSafety'],
 				sidebarImg:['static/images/icon_aside_portal.png','static/images/icon_aside_directory.png','static/images/icon_aside_change.png','static/images/icon_aside_resource.png','static/images/icon_aside_document.png','static/images/icon_aside_support.png','static/images/icon_aside_safe.png']
 			}

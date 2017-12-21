@@ -3,7 +3,7 @@
     <c-sidebar></c-sidebar>
     <div class="navChild">
       <div class="navL">
-        <div class="title">数据服务安全支持系统</div>
+        <div class="title">安全支持系统</div>
       </div>
     </div>
     <div class="navChildBar">
@@ -13,7 +13,7 @@
 </template>
 <script>
   import cSidebar from '../../sidebar/sidebar'
-  import cesiumContainer from './cesiumContainer'
+  //import cesiumContainer from './cesiumContainer'
   export default{
     data (){
       return{

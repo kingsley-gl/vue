@@ -10,23 +10,23 @@
 			return{
 				  charts: '',
 			      legendData:[
-	                    {name: '服务系统'},
-	                    {name: '收银系统'},
-	                    {name: '财务系统'},
-	                    {name: '会计系统'},
-	                    {name: '订单系统'},
-	                    {name: '结算系统'},
-	                    {name: '服务系统2'},
+	                    {name: 'xx系统1'},
+	                    {name: 'xx系统2'},
+	                    {name: 'xx系统3'},
+	                    {name: 'xx系统4'},
+	                    {name: 'xx系统5'},
+	                    {name: 'xx系统6'},
+	                    {name: 'xx系统7'},
 	                    {name: '其他'}
 	                ],
 	               seriesData:[
-	                        {value: 335, name: '服务系统'},
-	                        {value: 310, name: '收银系统'},
-	                        {value: 274, name: '财务系统'},
-	                        {value: 235, name: '会计系统'},
-	                        {value: 400, name: '订单系统'},
-	                        {value: 500, name: '结算系统'},
-	                        {value: 200, name: '服务系统2'},
+	                        {value: 335, name: 'xx系统1'},
+	                        {value: 310, name: 'xx系统2'},
+	                        {value: 274, name: 'xx系统3'},
+	                        {value: 235, name: 'xx系统4'},
+	                        {value: 400, name: 'xx系统5'},
+	                        {value: 500, name: 'xx系统6'},
+	                        {value: 200, name: 'xx系统7'},
 	                        {value: 300, name: '其他'}
 	                    ]
 
@@ -44,7 +44,7 @@
                this.charts.setOption({
                   title: {
 	                show: false,
-	                text: '生产信息系统',
+	                text: 'xx信息系统',
 	                left: 'center',
 	                top: 20,
 	                textStyle: {
@@ -91,7 +91,7 @@
 	            ],
 	            series: [
 	                {
-	                    name: '生产信息系统',
+	                    name: 'xx信息系统',
 	                    type: 'pie',
 	                    radius: '80%',
 	                    center: ['80%', '50%'],

@@ -4,7 +4,7 @@
                     v-model="file"
                     :data="data"
                     @input-file="upload(file)"
-                    ref="upload">shangchuan</file-upload>
+                    ref="upload">上传</file-upload>
 	</div>
 </template>
 <script>
@@ -34,7 +34,6 @@
 		          	url:this.url,
 		          	method:'post', 
 		          	data:filedata,
-		          	header:{'Content-Type':'application/x-www-form-urlencoded'}
 		          })
 		        }
 		    },

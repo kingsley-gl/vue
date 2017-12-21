@@ -4,7 +4,7 @@
 			<div class="mainwarp">
 			<transition name="bounce">
 				<div class="loginwarp" v-if="showLogin">
-					<div class="dataB_title">数据交换管理服务平台</div>
+					<div class="dataB_title">管理服务平台</div>
 					<div class="dataB_userName">
 						<input type="text" placeholder="用户名">
 						<i class="el-icon-location"></i>

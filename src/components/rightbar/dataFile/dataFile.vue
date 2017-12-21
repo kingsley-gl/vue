@@ -3,7 +3,7 @@
 		<c-sidebar></c-sidebar>
 		<div class="navChild">
 			<div class="navL">
-				<div class="title">数据文件管理系统</div>
+				<div class="title">文件管理系统</div>
 			</div>
 		</div>
 		<div class="navChildBar">

@@ -1,6 +1,6 @@
 <template>
 	<div class="warp">
-		目录申请
+		目录
 	</div>
 </template>
 <script>

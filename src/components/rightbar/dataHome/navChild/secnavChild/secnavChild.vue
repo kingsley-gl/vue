@@ -1,6 +1,6 @@
 <template>
 	<div class="warp">
-		数据服务对象
+		服务对象
 	</div>
 </template>
 <script>

@@ -3,7 +3,7 @@
 		<c-sidebar></c-sidebar>
 		<div class="navChild">
 			<div class="navL">
-				<div class="title">数据交换管理</div>
+				<div class="title">交换管理</div>
 			</div>
 			<div class="navR">
 				<ul>

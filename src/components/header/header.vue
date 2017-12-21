@@ -22,7 +22,7 @@
 	export default{
 		data (){
 			return{
-				sysTitle:"数据交换管理服务平台",
+				sysTitle:"管理服务平台",
 				user:"Admin",
 				isPer_Center:false
 			}
