@@ -31,7 +31,7 @@
     },
     components:{
       cSidebar,
-      cesiumContainer
+      //cesiumContainer
     },
     mounted() {
 
